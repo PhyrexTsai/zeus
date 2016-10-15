@@ -5,6 +5,7 @@
   "author": "x01ep23i@hotmail.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "cheerio": "^0.20.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
